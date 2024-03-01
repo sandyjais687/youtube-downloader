@@ -1,3 +1,4 @@
+#pip install yt_dlp
 import yt_dlp
 
 def download_link(conf_data, url):
